@@ -1,6 +1,5 @@
 import random
 import math
-# Josh Zukoff
 
 def is_prime(n, iterations=1):
     for i in range(iterations):
